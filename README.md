@@ -1,4 +1,4 @@
-#Steps
+# Steps
 
 1. ```PCA.py``` contains only PCA and ```LDA.py``` contains PCA+LDA.
 2. Download both scripts and keep training images in same directory as the scripts.
